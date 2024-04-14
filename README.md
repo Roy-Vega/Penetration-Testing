@@ -2,7 +2,7 @@
 
 ## Projects 
 
-### [Active Directory Laboratory]([https://github.com/Roy-Vega/Networking/tree/main/Network%20Services%20Lab%20with%20DMZ%2C%20LAN%20and%20WAN%20Setup](https://github.com/Roy-Vega/Penetration-Testing/tree/main/Active%20Directory%20Lab))
+### [Active Directory Laboratory](https://github.com/Roy-Vega/Penetration-Testing/blob/main/Active%20Directory%20Lab/README.md)
 This project builds an AD lab in VMWare Workstation, using one domain controller (Windows Server 2022) and two domain users (Windows 11).
 
 ## Contributors
